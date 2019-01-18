@@ -6,3 +6,6 @@ gem "sqlite3"
 gem "rake"
 gem "database_cleaner"
 gem "pry"
+gem "pry-rescue"
+
+gem 'learn-co'
